@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "types": {
+      "main": "src/practice/main.mo",
+      "type": "motoko"
+    },
+    "dao": {
+      "main": "src/dao/dao.mo",
+      "type": "motoko"
+    },
+    "sft": {
+      "main": "src/sft/SFT.mo",
+      "type": "motoko"
+    }
+  }
+}
